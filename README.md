@@ -4,7 +4,7 @@
 It is a matter of regret!!!
 
 
-![23](images - 2021-05-02T135829.824.jpeg)
+![23](31.jpeg)
 # Did Chris Cornell & Chester Bennington really commit suicide or they were murdered?
 
 In May 17 of 2017 **Chris Cornell** was found death tied to a rubber exercise band in Room No.1136 of the MGM Grand Detroit Casino hotel after his concert.
