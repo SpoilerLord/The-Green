@@ -1,7 +1,6 @@
 ![hhh](143.jpg)
-# What's wrong with modern fast bowlers?
-**So** the bottom line is what's really wrong with the fast bowling scenario? Why we are not getting Brett Lee and Shoaib Akhtar? Or,there is talent but they are not getting their place on field? Or, they are getting their place but later fading away? In this case it's both. Many players have faded away after a few years of making debut.Fitness is one of the serious biggest issue in this case. 90 percent of the problem could come solved if they give hard efforts on fitness,and the coach and the trainers should show some responsibility.And the players should be nurtured by his management and other senior players.Whenever a new player starts to get success on his game some people starts to pull him down. Take the example of **Mohammed Amir** Most of the fast bowlers of 21st century are could not be call dangerous as we use to call them before.
-It is a matter of regret!!!
+# Is the app you're using stealing your data? Don't let the app access your gallery by giving Permission 
+**So** The app which we are using in our android could get in the way of your privacy ,if the wrong apps gets permission to your sensitive apps.Many people don't think much and allow access to every kind of appsthey install. Now here you need to think,all kinds of apps shouldnot need to acess your gallery,for example: a microphone app may only need to acess your mouthpiece and earpiece, when it will ask for gallery permissin there must be something fishy. 
 
 
 ![23](31.jpeg)
