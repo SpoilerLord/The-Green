@@ -1,8 +1,16 @@
 
+![dd](https://github.com/SpoilerLord/The-Green/blob/c867168d8a3f05421bbcebfc87a8e8334ae01f8a/boom%20boom.jpg)
 # Is the app you're using stealing your data? Don't let the app access your gallery by giving Permission
 
-![o](boom boom.jpg)
+
 **So** The app which we are using in our android could get in the way of your privacy ,if the wrong apps gets permission to your sensitive apps.Many people don't think much and allow access to every kind of appsthey install. Now here you need to think,all kinds of apps shouldnot need to acess your gallery,for example: a microphone app may only need to acess your mouthpiece and earpiece, when it will ask for gallery permissin there must be something fishy. 
+
+
+
+
+
+
+
 
 
 ![23](31.jpeg)
