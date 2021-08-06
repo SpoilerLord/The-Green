@@ -1,4 +1,12 @@
+# International debut of Nathan Ellis
 
+
+
+
+
+
+
+After a long time a good fast bowler has appeared in the International cricket team of Australia.Today(6th August)he had taken hat-trick in his first international T20. Infact he had shown good quality fast bowling on the domestic leagues. 
 
 # Is the app you're using stealing your data? Don't let the app access your gallery by giving Permission
 ![dd](https://github.com/SpoilerLord/The-Green/blob/eada73f8ab31a7cb99702512ce027a303e3ad873/boom%20boom.jpg)
